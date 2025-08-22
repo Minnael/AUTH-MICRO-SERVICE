@@ -1,0 +1,20 @@
+2025-08-22T17:07:35.857Z [INFO]: Usuário registrado com sucesso: testuser
+2025-08-22T17:07:35.878Z [WARN]: Tentativa de registro duplicado para login: testuser
+2025-08-22T17:07:35.975Z [INFO]: Login realizado com sucesso para login: testuser
+2025-08-22T17:07:36.072Z [WARN]: Tentativa de login com senha incorreta para login: testuser
+2025-08-22T17:07:36.173Z [INFO]: Login realizado com sucesso para login: testuser
+2025-08-22T17:07:36.184Z [INFO]: Token validado e perfil retornado para login: testuser
+2025-08-22T17:07:36.191Z [WARN]: Tentativa de validação de token sem cookie.
+2025-08-22T18:20:52.247Z [INFO]: Usuário registrado com sucesso: testuser
+2025-08-22T18:20:52.270Z [WARN]: Tentativa de registro duplicado para login: testuser
+2025-08-22T18:20:52.365Z [INFO]: Login realizado com sucesso para login: testuser
+2025-08-22T18:20:52.452Z [WARN]: Tentativa de login com senha incorreta para login: testuser
+2025-08-22T18:20:52.540Z [INFO]: Login realizado com sucesso para login: testuser
+2025-08-22T18:20:52.552Z [INFO]: Token validado e perfil retornado para login: testuser
+2025-08-22T18:20:52.559Z [WARN]: Tentativa de validação de token sem cookie.
+2025-08-22T18:43:54.710Z [INFO]: Usuário registrado com sucesso: testuser
+2025-08-22T20:09:21.623Z [INFO]: Usuário registrado com sucesso: minnaelcampelo2@gmail.com
+2025-08-22T20:15:01.708Z [INFO]: Usuário registrado com sucesso: minnaelcampelo3@gmail.com
+2025-08-22T20:15:08.684Z [INFO]: Usuário registrado com sucesso: minnaelcampelo4@gmail.com
+2025-08-22T20:15:15.967Z [INFO]: Login realizado com sucesso para login: minnaelcampelo4@gmail.com
+2025-08-22T20:16:28.961Z [INFO]: Token validado e perfil retornado para login: minnaelcampelo4@gmail.com
